@@ -1,10 +1,10 @@
-package doduy.accountService;
+package com.bytehome.User.User;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AccountServiceApplicationTests {
+class UserApplicationTests {
 
 	@Test
 	void contextLoads() {
